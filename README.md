@@ -1,6 +1,5 @@
 # CV Gerardo Herrera - Junior Frontend Developer
 
-![Preview del CV](images/cv-preview.jpg)
 
 Este es mi currículum vitae en formato página web, desarrollado como parte del Frontend Projects Roadmap. El proyecto cumple con los estándares modernos de desarrollo web y está optimizado para SEO y compartir en redes sociales.
 
