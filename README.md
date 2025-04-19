@@ -36,3 +36,6 @@ Este es mi currículum vitae en formato página web, desarrollado como parte del
 ```bash
 git clone https://github.com/Gerardo-HG/cv-gerardo-herrera.git
 ```
+
+## Puedes encontrar el proyecto en el siguiente URL:
+  https://roadmap.sh/projects/single-page-cv
